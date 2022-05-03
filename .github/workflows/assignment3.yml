@@ -1,7 +1,7 @@
 name: Assignment 3 Build
 
 on:
-  push:
+  push: 
 
 jobs:
   build-and-deploy:
